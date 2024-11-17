@@ -3,12 +3,6 @@
 
 # 🚗 Taxi Service - React Native Project
 
-<div align="center">
-  <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
-    <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-  </a>
-</div>
-
 ## 📋 Project Overview
 
 This project is a **React Native** taxi service application that leverages modern technologies to deliver a seamless user experience. It includes features such as location-based ride requests, driver and passenger interactions, and real-time updates to enhance the efficiency of the service.
